@@ -4,21 +4,21 @@
 
 <img src="assets/cat.svg" width="480" alt="แมวดำนอนขดข้างโคมไฟ">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=E0B483&center=true&vCenter=true&width=440&lines=iOS+%2F+macOS+%2F+tvOS+developer;Swift+%C2%B7+SwiftUI+%C2%B7+Network+Extension;%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88+%F0%9F%87%B9%F0%9F%87%AD" alt="">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=E0B483&center=true&vCenter=true&width=440&lines=iOS+%2F+macOS+%2F+tvOS+developer;Swift+%C2%B7+SwiftUI+%C2%B7+UIKit+%C2%B7+AppKit;%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B9%E0%B9%80%E0%B8%8A%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88+%F0%9F%87%B9%F0%9F%87%AD" alt="">
 
 </div>
 
 ---
 
-### 🕯️ ตอนนี้ทำอะไรอยู่
+### 🕯️ about
 
 ```
 ~/  ตี 2 · กาแฟแก้วที่สาม · แมวนอนทับ trackpad
 
-  🔭  VPN clients บน Apple platform — Network Extension, sing-box
-  🧶  พอร์ต iOS → macOS → tvOS ให้เป็นโค้ดชุดเดียว
+  🍎  เขียนแอปบน Apple platform เป็นหลัก
+  🧶  ชอบงานที่โค้ดชุดเดียวรันได้หลายจอ
   🌱  Swift Concurrency, SwiftUI ที่ไม่กระพริบ
-  📮  arnupap@vpns.co.th
+  🐈‍⬛  แมวดำหนึ่งตัว เป็น code reviewer ที่เข้มงวดที่สุด
 ```
 
 <div align="center">
@@ -35,24 +35,10 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TangmaeTT&show_icons=true&hide_border=true&theme=gruvbox&bg_color=1a1210&title_color=E0B483&icon_color=8c4a3a&text_color=c9b8a8" alt="">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TangmaeTT&layout=compact&hide_border=true&theme=gruvbox&bg_color=1a1210&title_color=E0B483&text_color=c9b8a8" alt="">
+<img height="165" src="./profile/stats.svg" alt="">
+<img height="165" src="./profile/top-langs.svg" alt="">
 
 </div>
-
-<details>
-<summary><b>📚 ชั้นหนังสือ — repos ที่หยิบมาอ่านบ่อย</b></summary>
-
-<br>
-
-| | |
-|---|---|
-| 🌐 **sing-box-for-apple** | iOS/macOS/tvOS client สำหรับ sing-box |
-| 📦 **libbox-spm-bullios** | libbox แพ็กเป็น Swift Package |
-| ➗ **MathEveryday** | เลขวันละข้อ กันสมองสนิม |
-| 💬 **PokeChat** | ลองของ Firebase realtime |
-
-</details>
 
 <details>
 <summary><b>🐾 รอยเท้าแมว — contribution graph</b></summary>
